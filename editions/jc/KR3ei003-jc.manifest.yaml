@@ -1,0 +1,143 @@
+canonical_identifier: bkk:krp/KR3ei003/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ei003/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 張氏婦科
+  identifiers:
+    krp: KR3ei003
+  tags:
+    kr-categories: KR3ei
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ei003.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ei003_000-jc.yaml, hash: 'sha256:9e1c19e20606502d963a9cee22f6172fb3711b2e973e0e80570a5e1e6234ff2f'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ei003_000-jc.markers.yaml, hash: 'sha256:0e9367482fe0c29ae7197acb912930692ba4eef3b752ac8d6438f32097d3dd50'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ei003_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 161
+  label: 白蒲嶺張氏女科
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei003_jc_000-d3.h1s1
+    span:
+    - body
+    - 161
+    - 469
+  label: 廣嗣論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei003_jc_000-d4.h1s1
+    span:
+    - body
+    - 469
+    - 557
+  label: 胎前論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei003_jc_000-d5.h1s1
+    span:
+    - body
+    - 557
+    - 754
+  label: 產後論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei003_jc_000-d6.h1s1
+    span:
+    - body
+    - 754
+    - 1022
+  label: 婦人月水
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei003_jc_000-d7.h1s1
+    span:
+    - body
+    - 1022
+    - 1138
+  label: 種子方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei003_jc_000-d8.h1s1
+    span:
+    - body
+    - 1138
+    - 2052
+  label: 胎前諸症
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei003_jc_000-d9.h1s1
+    span:
+    - body
+    - 2052
+    - 2241
+  label: 難產方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei003_jc_000-d10.h1s1
+    span:
+    - body
+    - 2241
+    - 3915
+  label: 產後諸症
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei003_jc_000-d11.h1s1
+    span:
+    - body
+    - 3915
+    - 5849
+  label: 安胎逐月主方補
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei003_jc_000-d12.h1s1
+    span:
+    - body
+    - 5849
+    - 6566
+  label: 產後總論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei003_jc_000-d13.h1s1
+    span:
+    - body
+    - 6566
+    - 7057
+  label: 生化湯論
+  type: section
+  level: 1
+hash: sha256:e866eb04af0d77e279d78d6f0c31174080be95c39841db63bdf412128fc7d288
