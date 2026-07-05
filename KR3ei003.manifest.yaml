@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ei003_000.yaml, hash: 'sha256:1c3cd2ee77f2df944cd828c91390abc62fa1a0837fd2920dcf4144df8ea04112'}
+  - {seq: 0, filename: KR3ei003_000.yaml, hash: 'sha256:9e1c19e20606502d963a9cee22f6172fb3711b2e973e0e80570a5e1e6234ff2f'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ei003_000.markers.yaml, hash: 'sha256:0ea48fbae84606da6589fff121ceaff492ef292937af9fb25a3cf457a8a79cf8'}
+  - {seq: 0, role: markers, filename: assets/KR3ei003_000.markers.yaml, hash: 'sha256:47e4f12fd2d15bc112720781ea61750e5da30cfd42bd6a3de0efd94c75901207'}
 table_of_contents:
 - ref:
     seq: 0
@@ -140,7 +140,4 @@ table_of_contents:
   label: 生化湯論
   type: section
   level: 1
-hash: sha256:fcbce46fd598e9adf2eafddeb28203eb4da6f509c6123207cf33d39df9f25d56
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:9b77243eb5e730d2b52521e6805dd2fe391ab9fcbe5f27643459352c853fbda4
