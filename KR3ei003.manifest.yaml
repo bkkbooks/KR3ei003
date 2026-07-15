@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ei003/v1
 canonical_location: https://kanripo.org/bkk/KR3ei003/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 張氏婦科
   identifiers:
@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ei003_000.yaml, hash: 'sha256:9e1c19e20606502d963a9cee22f6172fb3711b2e973e0e80570a5e1e6234ff2f'}
+  - {seq: 0, filename: KR3ei003_000.yaml, hash: 'sha256:734182ad731cf842471be593ed25727ad05110aca9bd704c2362a80e24bcdabb'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ei003_000.markers.yaml, hash: 'sha256:47e4f12fd2d15bc112720781ea61750e5da30cfd42bd6a3de0efd94c75901207'}
+  - {seq: 0, role: markers, filename: assets/KR3ei003_000.markers.yaml, hash: 'sha256:6c7f5c26f3e3d36ed2aec40c5faa76556cd4c8ec50e1c834976eb144ed39d023'}
 table_of_contents:
 - ref:
     seq: 0
@@ -140,4 +140,7 @@ table_of_contents:
   label: 生化湯論
   type: section
   level: 1
-hash: sha256:9b77243eb5e730d2b52521e6805dd2fe391ab9fcbe5f27643459352c853fbda4
+hash: sha256:a7a04488edba7adba86f54cb198c6989df4b30f3c6e9763d136f3d7c91d8993b
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
