@@ -18,7 +18,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ei003_000-jc.yaml, hash: 'sha256:9e1c19e20606502d963a9cee22f6172fb3711b2e973e0e80570a5e1e6234ff2f'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ei003_000-jc.markers.yaml, hash: 'sha256:0e9367482fe0c29ae7197acb912930692ba4eef3b752ac8d6438f32097d3dd50'}
+  - {seq: 0, role: markers, filename: assets/KR3ei003_000-jc.markers.yaml, hash: 'sha256:77dfb1801704d8a8630ca56deb6191e27f3ab0e394d79862c7ad20ab36c078f5'}
 table_of_contents:
 - ref:
     seq: 0
@@ -140,4 +140,4 @@ table_of_contents:
   label: 生化湯論
   type: section
   level: 1
-hash: sha256:e866eb04af0d77e279d78d6f0c31174080be95c39841db63bdf412128fc7d288
+hash: sha256:ac93a37a91564fac916eeb55f1d94c0f567d1a18a4a1dfcbf699eba03d38a100

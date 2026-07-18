@@ -18,7 +18,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ei003_000.yaml, hash: 'sha256:734182ad731cf842471be593ed25727ad05110aca9bd704c2362a80e24bcdabb'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ei003_000.markers.yaml, hash: 'sha256:6c7f5c26f3e3d36ed2aec40c5faa76556cd4c8ec50e1c834976eb144ed39d023'}
+  - {seq: 0, role: markers, filename: assets/KR3ei003_000.markers.yaml, hash: 'sha256:d13d9938f8a7d888e9d35f2472643b45c6f3354cce2efe417a4040d3bfc2835e'}
 table_of_contents:
 - ref:
     seq: 0
@@ -140,7 +140,7 @@ table_of_contents:
   label: 生化湯論
   type: section
   level: 1
-hash: sha256:a7a04488edba7adba86f54cb198c6989df4b30f3c6e9763d136f3d7c91d8993b
+hash: sha256:4710bf1931a2a2eb8395f7c4a7d1cc512897064edb114d290b7e3be419d57c05
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
